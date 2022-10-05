@@ -2954,6 +2954,6 @@ details-disclosure > details {
   }
 
   .localization-form__select:focus {
-    outline: transparent solid 1px;
+    outline: transparent solid 2px;
   }
 }
